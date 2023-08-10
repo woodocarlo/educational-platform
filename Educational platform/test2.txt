@@ -1,0 +1,6 @@
+
+firstname: r 
+lastName: r 
+age: 4 
+standard: 4 
+password: hellloworld 

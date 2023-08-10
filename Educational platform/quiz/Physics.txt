@@ -1,0 +1,18 @@
+Question: What is the SI unit of electric current?
+Option A: Volt
+Option B: Ampere
+Option C: Watt
+Correct Option: B
+
+Question: What is the formula for calculating force?
+Option A: f = ma
+Option B: f = mv
+Option C: f = m/a
+Correct Option: A
+
+Question: What is the acceleration due to gravity on Earth?
+Option A: 6.7 m/s^2
+Option B: 5.2 m/s^2
+Option C: 9.8 m/s^2
+Correct Option: C
+

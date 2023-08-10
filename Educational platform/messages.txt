@@ -1,0 +1,7 @@
+[nischal]: hi do you know how to print hello world
+[Aaryan]: just scan the value
+[agrima]: ask sir!!
+[35m[admin] [0m hi!! System.out.println("hello world");
+[arushi]: thankyou sir!! 
+[nischal]: @arushi hi
+[agrima]: hiiiii 

@@ -1,0 +1,18 @@
+Question: What is the capital of France?
+Option A: Paris
+Option B: London
+Option C: Rome
+Correct Option: A
+
+Question: What is the largest planet in our solar system?
+Option A: Venus
+Option B: Jupiter
+Option C: Saturn
+Correct Option: B
+
+Question: What is the capital of Japan?
+Option A: Tokyo
+Option B: Beijing
+Option C: Seoul
+Correct Option: A
+

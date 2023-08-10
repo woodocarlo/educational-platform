@@ -1,0 +1,18 @@
+Question: What is the chemical symbol for hydrogen?
+Option A: H
+Option B: He
+Option C: O
+Correct Option: A
+
+Question: Which element is the most abundant in the Earth's atmosphere?
+Option A: Oxygen
+Option B: Carbon
+Option C: Nitrogen
+Correct Option: C
+
+Question: What is the atomic number of carbon?
+Option A: 6
+Option B: 8
+Option C: 12
+Correct Option: A
+

@@ -1,0 +1,11 @@
+Question: what is public 
+Option A: variable
+Option B: access specifier 
+Option C: method
+Correct Option: B
+
+Question: java is object oriented
+Option A: true
+Option B: false
+Correct Option: A
+

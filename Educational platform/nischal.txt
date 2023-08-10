@@ -1,0 +1,8 @@
+
+firstname: nischal 
+lastName: sharma 
+age: 13 
+standard: 4 
+password: googlegmail 
+courses_Archimedes' Principle=2/11
+courses_Newton's Law=5/12
