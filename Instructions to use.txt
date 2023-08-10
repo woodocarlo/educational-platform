@@ -1,0 +1,14 @@
+1. open command prompt and compile all the classes seperatly
+
+	PS C:\Users\OneDrive\Desktop\javaproject> Javac Login.java
+	PS C:\Users\OneDrive\Desktop\javaproject> javac Student.java
+  	PS C:\Users\OneDrive\Desktop\javaproject> javac AdministrationPage.java
+	PS C:\Users\OneDrive\Desktop\javaproject> javac mainPage.java
+	PS C:\Users\OneDrive\Desktop\javaproject> java mainPage
+
+2. To view the password of an existing user for login purposes please open the ".txt" file of the respective user
+3. All the courses are saved in directory named "courses"
+4. All the quizzes are saved in the directory named "quiz"
+5. the login credentials for the admin is 
+	firstname: Admin
+	password:  StrongPassword
