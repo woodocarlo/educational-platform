@@ -109,27 +109,29 @@ APIs are integrated directly in the code – no need for separate environment va
    npm run dev
 Open http://localhost:3000 in your browser.
 
-##📖 How to Use Kalasakhi
+## **📖 How to Use Kalasakhi**
 
-Upload Artwork: In the Art Gallery, add photos, set prices, and choose visibility.
-Generate Content: In AI Studio, upload images for AI suggestions on photoshoots, backgrounds, posts, or podcasts.
-Customize & Share: Use generated content directly or edit (upcoming) before posting to social media.
-Explore 3D Previews: Get shareable links for virtual artwork placements in homes.
+- **Upload Artwork**: In the Art Gallery, add photos, set prices, and choose visibility.
+- **Generate Content**: In AI Studio, upload images for AI suggestions on photoshoots, backgrounds, posts, or podcasts.
+- **Customize & Share**: Use generated content directly or edit (upcoming) before posting to social media.
+- **Explore 3D Previews**: Get shareable links for virtual artwork placements in homes.
 
-#❓ Help & Instructions
+---
+
+## **❓ Help & Instructions**
+
 Click the "?" icon in the header for guided tours and step-by-step instructions for each section.
-(Tip: Use high-quality photos and detailed descriptions for optimal AI-generated content.)
 
-##🤝 Contributing
+*(Tip: Use high-quality photos and detailed descriptions for optimal AI-generated content.)*
+
+## **🤝 Contributing**
+
 We welcome contributions to make Kalasakhi even better! Fork the repo, make your changes, and submit a pull request. For major features, open an issue first to discuss.
 
-##💬 Contact
-Nischal Sharma- 
+## **💬 Contact**
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+Nischal Sharma  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nischal-sharma-49692025b/)  
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nischalsharma2037@gmail.com)  
 
-Project Link: https://github.com/woodocarlo/traditional-arts-platform
-
-   
-   
+Project Link: [https://github.com/woodocarlo/traditional-arts-platform](https://github.com/woodocarlo/traditional-arts-platform)
