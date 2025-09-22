@@ -1,140 +1,138 @@
-# Kalasakhi - AI Assistant for Traditional Artisans
-
 <div align="center">
   <img src="https://i.postimg.cc/CxcHHGGp/image.png" alt="Kalasakhi Logo" width="150" />
-  <h1>Kalasakhi: From Heritage to Hashtags</h1>
+  <h1>Kalasakhi</h1>
   <p>
-    An AI-powered platform designed to empower local artisans by bridging the gap between traditional art and the digital marketplace.
+    Your AI-Powered Art Friend: Empowering traditional artisans to bridge heritage crafts with the digital world. From timeless traditions to trending hashtags.
   </p>
-  
   <p>
-    <a href="https://traditional-arts-platform.vercel.app/">View Live Demo</a>
-    ·
     <a href="https://github.com/woodocarlo/traditional-arts-platform/issues">Report Bug</a>
     ·
     <a href="https://github.com/woodocarlo/traditional-arts-platform/issues">Request Feature</a>
   </p>
-  
-  <div>
-    <img src="https://img.shields.io/github/stars/woodocarlo/traditional-arts-platform?style=for-the-badge" alt="GitHub stars" />
-    <img src="https://img.shields.io/github/forks/woodocarlo/traditional-arts-platform?style=for-the-badge" alt="GitHub forks" />
-    <img src="https://img.shields.io/github/issues/woodocarlo/traditional-arts-platform?style=for-the-badge" alt="GitHub issues" />
-    <img src="https://img.shields.io/badge/Deployed-Vercel-success?style=for-the-badge" alt="Vercel deployment" />
-  </div>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/stars/woodocarlo/traditional-arts-platform?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/woodocarlo/traditional-arts-platform?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/woodocarlo/traditional-arts-platform?style=for-the-badge" />
 </div>
 
 <br />
 
----
-
-## 🎨 About The Project
-
-![User Flow](https://i.postimg.cc/Zq9381Y6/User-uploads-media-1.png)
-
-Traditional artisans possess incredible talent but often lack resources and technical skills to market their creations digitally. **Kalasakhi** (meaning 'Art Friend') is an AI-powered assistant that helps artisans create compelling online content, manage social media presence, and reach wider audiences.
-
-Our mission is to preserve cultural heritage by making it economically viable for artisans to continue their craft through cutting-edge AI technology.
-
-### ✨ Unique Selling Proposition
-
-Kalasakhi stands out by offering:
-- **Culturally-aware AI** that understands traditional Indian art forms and regional nuances
-- **Comprehensive digital transformation** from photography to social media marketing
-- **Multi-lingual support** with Hindi-English code-switching capabilities
-- **All-in-one platform** eliminating the need for multiple tools and services
-
-### 🚀 Key Features
-
-#### 🎯 Functional Features
-- **Art Gallery**: Upload artwork, set minimum prices, and choose to publish or keep private
-- **Smart Pricing Algorithm**: AI-powered price optimization to maximize sales while respecting artisan margins
-- **Interactive Help**: Click the "?" icon for seamless guided tours through each section
-
-#### 🎨 Creative Arena (Partially Functional)
-- **AI-Powered Content Creation**: Generate engaging social media posts with captions and hashtags
-- **Podcast/Webinar Generation**: Create audio/video content from voice samples with multi-language support
-- **Photography Guidance**: DIY techniques for professional-quality photos with simple setups
-- **Post Editing**: Canva-like editing interface for customizing generated content
-- **Background Processing**: AI-powered background removal and replacement
-
-#### 🔮 Upcoming Features
-- **Auto-Pilot Mode**: Fully automated marketing with minimal user input
-- **3D Visualization**: Virtual gallery and AR product previews
-- **Workshop Organization**: Tools for hosting online classes and selling materials
+<div align="center">
+  <a href="https://traditional-arts-platform.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Vercel-blue?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  </a>
+  <a href="https://youtu.be/xm7g_fWP_zk?si=VCuAAbJbPWty3yFL">
+    <img src="https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Watch Demo" />
+  </a>
+</div>
 
 ---
 
-## 🛠️ Technology Stack
+## 🎨 About Kalasakhi
 
-* **Frontend:** React, Next.js, Tailwind CSS, React Three Fiber (3D)
-* **AI Services:** Google Gemini API, OpenAI GPT-4
-* **Image Processing:** Remove.bg API, Cloudinary, PIL/Pillow
-* **Backend:** Node.js, Express
-* **Database:** MongoDB, PostgreSQL
+Kalasakhi (meaning "Art Friend" in Hindi) is an innovative AI assistant designed to empower traditional Indian artisans. By leveraging cutting-edge AI technologies, it helps bridge the gap between age-old craftsmanship and modern digital marketing. Artisans can effortlessly create professional content, optimize their artwork presentations, and expand their reach without needing technical expertise.
 
----
+### 🌟 Unique Selling Points (USPs)
+- **Cultural Intelligence:** Tailored for Indian traditional arts, with built-in knowledge of regional crafts, heritage stories, and multilingual support (English, Hindi, Punjabi, Haryanvi, Marathi, Telugu, Gujarati, Odia).
+- **All-in-One AI Toolkit:** From photo enhancement to content generation and virtual previews, everything an artisan needs in one intuitive assistant.
+- **Empowerment Focus:** Preserves cultural heritage by making artisanry economically viable through smart, automated digital tools.
+- **User-Friendly Design:** Simple interfaces with guided help, perfect for artisans new to technology.
 
-## 🚀 Live Deployment
-
-The application is currently deployed on Vercel:  
-🌐 **Live URL:** https://traditional-arts-platform.vercel.app/
-
-All API integrations are implemented directly in the codebase without requiring additional environment variables for basic functionality.
+Kalasakhi transforms raw artisan uploads into polished, market-ready content, helping preserve traditions while boosting sales and visibility.
 
 ---
 
-## 💡 How It Works
+## ✨ Key Features
 
-1. **Upload Artwork**: Artisans upload photos of their creations
-2. **AI Enhancement**: Get automated improvements for lighting, angles, and backgrounds
-3. **Content Generation**: AI creates compelling stories, descriptions, and marketing content
-4. **Multi-Platform Distribution**: One-click posting to various social media and e-commerce platforms
-5. **Performance Analytics**: Track engagement and sales performance
+Kalasakhi offers a suite of AI-powered tools divided into functional areas. Explore the app via the live demo for hands-on experience.
+
+### 🖼️ Art Gallery (Fully Functional)
+- Upload your artwork photos.
+- Set a minimum price and decide whether to post publicly or keep it private in your gallery.
+- Seamless management of your digital portfolio.
+
+### 🎭 Creative Arena (Core AI Features)
+- **AI-Powered Content Creation (Fully Functional):** Upload photos to generate engaging social media posts, complete with captions and hashtags powered by Google Gemini.
+- **Podcast/Webinar Generation (Fully Functional):** Upload a short voice and face clip to create audio/video podcasts or webinars. Customize length, questions, title, and language (supports English, Hindi, Punjabi, Haryanvi, Marathi, Telugu, Gujarati, Odia).
+- **Photography Guidance (Fully Functional):** Get DIY tips and tricks for professional-quality photos at home, including camera settings and simple setups to make products look premium.
+- **Background Processing (Fully Functional):** AI-driven background removal and replacement for clean, complementary visuals.
+- **Post Editing (Upcoming):** Canva-like interface to customize generated posts, text, and visuals.
+- **3D Visualization & AR Preview:** Generate interactive 3D models and links for virtual home previews of artwork.
+- **Multi-Image Thread Generation:** Create 5-slide Instagram story narratives highlighting artwork stories, techniques, and cultural significance.
+- **Auto-Pilot Mode (Upcoming):** Fully automated marketing – upload art, and let AI handle posts, podcasts, and promotions over time.
+- **Smart Pricing Algorithm (Upcoming):** AI-optimized pricing using reinforcement learning to maximize sales while staying above your set margins.
+- **Webinar Organization (Upcoming):** Host virtual workshops to teach crafts, sell materials, share stories, or showcase products.
+- **Performance Analytics (Upcoming):** Track engagement, followers, and sales with insightful dashboards.
+
+### 🔍 User Flow & Page Layout
+For a visual overview of how Kalasakhi works:
+- [User Flow Diagram](https://i.postimg.cc/Zq9381Y6/User-uploads-media-1.png)
+- [Page Layout Infographic](https://i.postimg.cc/KzMDpG1R/Gray-Modern-Financial-Plan-Infographic-Presentation.png)
 
 ---
 
-## 🏗️ Project Structure
+## 🛠️ Built With
 
-```
-traditional-arts-platform/
-├── components/          # React components
-├── pages/              # Next.js pages
-├── lib/                # Utility libraries and API integrations
-├── styles/             # CSS and Tailwind configurations
-├── public/             # Static assets
-└── README.md           # Project documentation
-```
+- **Frontend:** React, Next.js, Tailwind CSS, React Three Fiber for 3D visualizations.
+- **Backend:** Node.js, Express.
+- **AI & Processing:** Google Gemini API (for content, captions, hashtags, and podcasts), Remove.bg for backgrounds, PIL/Pillow for image enhancements.
+- **Database:** MongoDB, PostgreSQL.
+- **Other:** Framer Motion for animations, Chart.js for analytics (upcoming).
+
+APIs are integrated directly in the code – no need for separate environment variables in your local setup.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js and npm installed.
+
+### Installation
+1. Clone the repo:
+   ```sh
+   git clone https://github.com/woodocarlo/traditional-arts-platform.git
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Run the app:
+   ```sh
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## 📖 How to Use Kalasakhi
+
+1. **Sign Up/Login:** Start with a simple account to access your personalized dashboard.
+2. **Upload Artwork:** In the Art Gallery, add photos, set prices, and choose visibility.
+3. **Generate Content:** Head to Creative Arena – upload images for AI suggestions on photoshoots, backgrounds, posts, or podcasts.
+4. **Customize & Share:** Use generated content directly or edit (upcoming) before posting to social media.
+5. **Explore 3D Previews:** Get shareable links for virtual artwork placements in homes.
+6. **Auto-Pilot (Upcoming):** Enable for hands-free marketing.
+
+### ❓ Help & Instructions
+Click the "?" icon in the header to open guided tours and instructions for each section. This ensures a seamless experience, walking you through features step-by-step.
+
+*(Tip: For best results, use high-quality photos and provide detailed descriptions for AI generations.)*
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+We welcome contributions to make Kalasakhi even better! Fork the repo, make your changes, and submit a pull request. For major features, open an issue first to discuss.
 
 ---
 
-## 📞 Contact
+## 💬 Contact
 
-Nischal Sharma - 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nischal-sharma-49692025b/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nischalsharma2037@gmail.com)
+Nischal Sharma  
+- [LinkedIn](https://www.linkedin.com/in/nischal-sharma-49692025b/)  
+- [Email](mailto:nischalsharma2037@gmail.com)  
 
 Project Link: [https://github.com/woodocarlo/traditional-arts-platform](https://github.com/woodocarlo/traditional-arts-platform)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  <sub>Built with ❤️ for traditional artisans worldwide</sub>
-</div>
