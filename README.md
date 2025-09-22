@@ -68,10 +68,8 @@ Kalasakhi (meaning "Art Friend" in Hindi) is an innovative AI assistant designed
 - **Performance Analytics:** Comprehensive dashboard to track engagement metrics, follower growth, and sales insights for data-driven improvements.
 
 ### 📊 Visual Guides
-- **User Flow Diagram**  
-  ![User Flow](https://i.postimg.cc/Zq9381Y6/User-Uploads-media-1.png)
-- **Page Layout Infographic**  
-  ![Page Layout](https://i.postimg.cc/KzMDpG1R/Gray-Modern-Financial-Plan-Infographic-Presentation.png)
+- **User Flow Diagram** ![User Flow](https://i.postimg.cc/Zq9381Y6/User-Uploads-media-1.png)
+- **Page Layout Infographic** ![Page Layout](https://i.postimg.cc/KzMDpG1R/Gray-Modern-Financial-Plan-Infographic-Presentation.png)
 
 ---
 
@@ -102,4 +100,4 @@ APIs are integrated directly in the code – no need for separate environment va
 ### Installation
 1. Clone the repo:
    ```sh
-   git clone https://github.com/woodocarlo/traditional-arts-platform.git
+   git clone [https://github.com/woodocarlo/traditional-arts-platform.git](https://github.com/woodocarlo/traditional-arts-platform.git)
