@@ -40,55 +40,48 @@ Kalasakhi (meaning "Art Friend" in Hindi) is an innovative AI assistant designed
 - **Empowerment Focus:** Preserves cultural heritage by making artisanry economically viable through smart, automated digital tools.
 - **User-Friendly Design:** Simple interfaces with guided help, perfect for artisans new to technology.
 
+Kalasakhi transforms raw artisan uploads into polished, market-ready content, helping preserve traditions while boosting sales and visibility.
+
 ---
 
-## ✨ Features
+## ✨ Key Features
+
+Kalasakhi offers a suite of AI-powered tools divided into functional areas. Explore the app via the live demo for hands-on experience.
 
 ### 🖼️ Art Gallery (Fully Functional)
-- Upload artwork photos.
-- Set a minimum price and choose to post publicly or keep private in your gallery.
-- Manage your digital portfolio seamlessly.
+- Upload your artwork photos.
+- Set a minimum price and decide whether to post publicly or keep it private in your gallery.
+- Seamless management of your digital portfolio.
 
-### 🎭 Creative Arena
-#### Fully Functional Features
-- **AI-Powered Content Creation:** Upload photos to generate engaging social media posts with captions and hashtags powered by Google Gemini.
-- **Podcast/Webinar Generation:** Create audio/video podcasts or webinars from short voice/face clips. Customize length, questions, title, and language (English, Hindi, Punjabi, Haryanvi, Marathi, Telugu, Gujarati, Odia).
-- **Photography Guidance:** DIY tips for professional-quality photos at home, including camera settings and simple setups for premium visuals.
-- **Background Processing:** AI-driven background removal and replacement for clean, complementary artwork presentations.
-
-#### Upcoming Features
-- **Post Editing:** Canva-like interface to customize generated posts, text, and visuals.
-- **Smart Pricing Algorithm:** AI-optimized pricing using reinforcement learning to maximize sales while respecting artisan-set margins.
-- **Auto-Pilot Mode:** Fully automated marketing – upload art, and AI handles posts, podcasts, and promotions over time.
-- **Webinar Organization:** Host virtual workshops to teach crafts, sell materials, share stories, or showcase products.
+### 🎭 Creative Arena (Core AI Features)
+- **AI-Powered Content Creation (Fully Functional):** Upload photos to generate engaging social media posts, complete with captions and hashtags powered by Google Gemini.
+- **Podcast/Webinar Generation (Fully Functional):** Upload a short voice and face clip to create audio/video podcasts or webinars. Customize length, questions, title, and language (supports English, Hindi, Punjabi, Haryanvi, Marathi, Telugu, Gujarati, Odia).
+- **Photography Guidance (Fully Functional):** Get DIY tips and tricks for professional-quality photos at home, including camera settings and simple setups to make products look premium.
+- **Background Processing (Fully Functional):** AI-driven background removal and replacement for clean, complementary visuals.
+- **Post Editing (Upcoming):** Canva-like interface to customize generated posts, text, and visuals.
 - **3D Visualization & AR Preview:** Generate interactive 3D models and links for virtual home previews of artwork.
 - **Multi-Image Thread Generation:** Create 5-slide Instagram story narratives highlighting artwork stories, techniques, and cultural significance.
-- **Performance Analytics:** Track engagement, followers, and sales with insightful dashboards.
+- **Auto-Pilot Mode (Upcoming):** Fully automated marketing – upload art, and let AI handle posts, podcasts, and promotions over time.
+- **Smart Pricing Algorithm (Upcoming):** AI-optimized pricing using reinforcement learning to maximize sales while staying above your set margins.
+- **Webinar Organization (Upcoming):** Host virtual workshops to teach crafts, sell materials, share stories, or showcase products.
+- **Performance Analytics (Upcoming):** Track engagement, followers, and sales with insightful dashboards.
 
-### 📊 Visual Guides
-- **User Flow Diagram**  
-  ![User Flow](https://i.postimg.cc/Zq9381Y6/User-Uploads-media-1.png)
-- **Page Layout Infographic**  
-  ![Page Layout](https://i.postimg.cc/KzMDpG1R/Gray-Modern-Financial-Plan-Infographic-Presentation.png)
+### 🔍 User Flow & Page Layout
+For a visual overview of how Kalasakhi works:
+- [User Flow Diagram](https://i.postimg.cc/Zq9381Y6/User-uploads-media-1.png)
+- [Page Layout Infographic](https://i.postimg.cc/KzMDpG1R/Gray-Modern-Financial-Plan-Infographic-Presentation.png)
 
 ---
 
 ## 🛠️ Built With
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Remove.bg-00C4B4?style=flat-square" alt="Remove.bg" />
-  <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square" alt="React Three Fiber" />
-</div>
+- **Frontend:** React, Next.js, Tailwind CSS, React Three Fiber for 3D visualizations.
+- **Backend:** Node.js, Express.
+- **AI & Processing:** Google Gemini API (for content, captions, hashtags, and podcasts), Remove.bg for backgrounds, PIL/Pillow for image enhancements.
+- **Database:** MongoDB, PostgreSQL.
+- **Other:** Framer Motion for animations, Chart.js for analytics (upcoming).
 
-APIs are integrated directly in the code – no need for separate environment variables.
+APIs are integrated directly in the code – no need for separate environment variables in your local setup.
 
 ---
 
@@ -101,3 +94,45 @@ APIs are integrated directly in the code – no need for separate environment va
 1. Clone the repo:
    ```sh
    git clone https://github.com/woodocarlo/traditional-arts-platform.git
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Run the app:
+   ```sh
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## 📖 How to Use Kalasakhi
+
+1. **Sign Up/Login:** Start with a simple account to access your personalized dashboard.
+2. **Upload Artwork:** In the Art Gallery, add photos, set prices, and choose visibility.
+3. **Generate Content:** Head to Creative Arena – upload images for AI suggestions on photoshoots, backgrounds, posts, or podcasts.
+4. **Customize & Share:** Use generated content directly or edit (upcoming) before posting to social media.
+5. **Explore 3D Previews:** Get shareable links for virtual artwork placements in homes.
+6. **Auto-Pilot (Upcoming):** Enable for hands-free marketing.
+
+### ❓ Help & Instructions
+Click the "?" icon in the header to open guided tours and instructions for each section. This ensures a seamless experience, walking you through features step-by-step.
+
+*(Tip: For best results, use high-quality photos and provide detailed descriptions for AI generations.)*
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions to make Kalasakhi even better! Fork the repo, make your changes, and submit a pull request. For major features, open an issue first to discuss.
+
+---
+
+## 💬 Contact
+
+Nischal Sharma  
+- [LinkedIn](https://www.linkedin.com/in/nischal-sharma-49692025b/)  
+- [Email](mailto:nischalsharma2037@gmail.com)  
+
+Project Link: [https://github.com/woodocarlo/traditional-arts-platform](https://github.com/woodocarlo/traditional-arts-platform)
